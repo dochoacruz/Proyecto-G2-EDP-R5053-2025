@@ -1,0 +1,31 @@
+* C:\Users\david\OneDrive - UTN.BA\UTN-FRBA\Nivel 5\Electrónica de Potencia\Proyecto G2\Proyecto 1C\LTspice\G2.asc
+Vin Vin 0 {Vin} Rser=0
+Rsc Vin SWC {Rsc}
+Ct N001 0 {Ct}
+R2 Vout Cinv {R2}
+R1 Cinv 0 {R1}
+Cout Vout 0 {Cout}
+Cin Vin 0 {Cin}
+XU1 SWC SWE N001 0 Cinv Vin SWC SWC MC34063
+L1 SWE Vout {L1}
+D1 0 SWE 1N5819
+RL Vout 0 {RL}
+.model D D
+.lib C:\Users\david\AppData\Local\LTspice\lib\cmp\standard.dio
+.inc MC34063.lib
+.param Vin 12V
+.param f 40KHz
+.param T 1/f
+.param D 0.416
+.param RL 5
+.param R1 1K
+.param R2 3k
+.param Rsc 0.15
+.param L1 47u
+.param Cout 250uF
+.param Cin 100uF
+.param Ct 470pF
+.options Gmin=1e-9 method=Gear
+.tran 0 7m 0.1m 100n uic
+.backanno
+.end

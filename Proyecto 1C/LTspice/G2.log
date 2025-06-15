@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\david\OneDrive - UTN.BA\UTN-FRBA\Nivel 5\Electrónica de Potencia\Proyecto G2\Proyecto 1C\LTspice\G2.asc
+Start Time: Sat Jun 14 22:27:11 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = Gear
+gmin = 1e-09
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 12.397 seconds.
+
