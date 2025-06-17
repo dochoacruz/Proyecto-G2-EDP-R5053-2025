@@ -1,7 +1,7 @@
 [Transient Analysis]
 {
    Npanes: 4
-   Active Pane: 2
+   Active Pane: 3
    {
       traces: 2 {524293,0,"V(swc)"} {34603014,1,"I(D1)"}
       X: ('m',1,0,0.0007,0.0069)
@@ -31,7 +31,7 @@
       GridStyle: 1
    },
    {
-      traces: 2 {524290,0,"V(vout)"} {524291,0,"V(vin)"}
+      traces: 2 {524290,0,"V(vout)"} {589835,0,"V(vin)"}
       X: ('m',1,0,0.0007,0.0069)
       Y[0]: (' ',0,0,1,12)
       Y[1]: ('_',0,1e+308,0,-1e+308)
@@ -40,3 +40,4 @@
       GridStyle: 1
    }
 }
+
