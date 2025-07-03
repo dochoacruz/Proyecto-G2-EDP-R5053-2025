@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAPC742X
+D Jack, Power; PC Mount; 1 mm; 50 Milliohms (Max.); 250 VAC for 1 Minute; 3 A
+K
+F https://componentsearchengine.com/Datasheets/1/RAPC742X.pdf
+$ENDCMP
+#
+#End Doc Library

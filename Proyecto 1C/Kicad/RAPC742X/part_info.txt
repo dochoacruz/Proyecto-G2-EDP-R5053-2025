@@ -1,0 +1,9 @@
+Manufacturer=Switchcraft
+PartNumber=RAPC742X
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2021-01-05 08:33:38
+Downloaded=2025-06-18 01:50:26
+3D=Y

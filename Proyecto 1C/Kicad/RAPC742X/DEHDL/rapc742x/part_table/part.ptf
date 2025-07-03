@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RAPC742X'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Switchcraft", "RAPC742X" (!) = "", "RAPC742X", "Other", "502-RAPC742X", "https://www.mouser.co.uk/ProductDetail/Switchcraft/RAPC742X?qs=mcPJWgAPNrdJm2lvzLuBfQ%3D%3D", "RAPC742X", "https://www.arrow.com/en/products/rapc742x/switchcraft", "Jack, Power; PC Mount; 1 mm; 50 Milliohms (Max.); 250 VAC for 1 Minute; 3 A", "https://componentsearchengine.com/Datasheets/1/RAPC742X.pdf", "7.62 mm"
+END_PART
+
+END.

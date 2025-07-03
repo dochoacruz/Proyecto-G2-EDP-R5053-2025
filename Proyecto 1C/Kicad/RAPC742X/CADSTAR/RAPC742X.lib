@@ -1,0 +1,18 @@
+.RAPC742X :1 ;Jack, Power; PC Mount; 1 mm; 50 Milliohms (Max.); 250 VAC for 1 Minute; 3 A
+RAPC742X
+*STM J
+*NGS
+*PLB 1="SLEEVE" 2="SHUNT" 3="TIP"
+*MXP 3
+*DFN RAPC742X
+~!Manufacturer_Name (Switchcraft)
+~!Manufacturer_Part_Number (RAPC742X)
+~!Mouser Part Number (502-RAPC742X)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Switchcraft/RAPC742X?qs=mcPJWgAPNrdJm2lvzLuBfQ%3D%3D)
+~!Arrow Part Number (RAPC742X)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/rapc742x/switchcraft)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/RAPC742X.pdf)
+~!Height (7.62mm)
+~!3D_Model (RAPC742X)
+RAPC742X
+1.1!U 2.1!U 3.1!U 
